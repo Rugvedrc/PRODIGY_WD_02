@@ -1,2 +1,2 @@
 # PRODIGY_WD_02
-Stopwatch
+This a Basic website which functions as a Stopwatch. This website is made using HTML , CSS and JavaScript
